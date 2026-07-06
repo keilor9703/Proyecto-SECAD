@@ -1,0 +1,9 @@
+Justificacion:
+En la descripción del problema es importante agregar datos, cifras y hechos que evidencien el problema o afectación a la seguridad y convivencia ciudadana.
+
+Alcance:
+Persiste la recomendación de que el alcance se limite a describir los bienes, servicios e intervenciones que serán ejecutados, mientras que los aspectos técnicos y funcionales se desarrollen de manera detallada en el anexo de especificaciones técnicas.
+
+Si es necesario, se deben adjuntar soportes visuales (renders, prototipos, fotografías, diagramas de distribución, planos o esquemas técnicos) para facilitar la comprensión de la magnitud del alcance.
+
+Es importante tener en cuenta que no se debe repetir lo de las especificaciones técnicas, aquí es una ayuda mas visual y descriptiva lo que no es tan fácil de encontrar en las especificaciones, como licencias y demás 
